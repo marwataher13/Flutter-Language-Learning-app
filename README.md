@@ -1,16 +1,19 @@
-# language_learning
+Japanese Language Learner 🇯🇵
+A streamlined mobile application designed to bridge the gap between visual recognition and auditory learning for Japanese language beginners. This project focuses on intuitive UI/UX to make learning the basics of the language engaging and accessible.
 
-A new Flutter project.
+✨ Key Features
+Visual Learning: Each word or phrase is paired with high-quality imagery to aid memory retention.
 
-## Getting Started
+Trilingual Support: Clear display of terms in English, Japanese (Kanji/Kana), and Romaji.
 
-This project is a starting point for a Flutter application.
+Audio Integration: Native-speaker audio clips for every entry to ensure learners master the correct pronunciation and accent.
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Tech Stack
+Flutter: Used for building a smooth, cross-platform user interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart: The core programming language for application logic.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Asset Management: Efficient handling of custom image and audio data.
+
+💡 About the Project
+This project combines my technical background in Computer Science with my personal passion for Japanese culture. Having traveled to Japan and planning to return in the future, I wanted to create a tool that reflects the beauty and simplicity of the language.
