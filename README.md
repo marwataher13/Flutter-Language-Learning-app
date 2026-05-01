@@ -1,19 +1,26 @@
-Japanese Language Learner 🇯🇵
-A streamlined mobile application designed to bridge the gap between visual recognition and auditory learning for Japanese language beginners. This project focuses on intuitive UI/UX to make learning the basics of the language engaging and accessible.
+# 🇯🇵 Japanese Language Learner
 
-✨ Key Features
-Visual Learning: Each word or phrase is paired with high-quality imagery to aid memory retention.
+### *A Visual & Auditory Learning Experience*
 
-Trilingual Support: Clear display of terms in English, Japanese (Kanji/Kana), and Romaji.
+---
 
-Audio Integration: Native-speaker audio clips for every entry to ensure learners master the correct pronunciation and accent.
+## 📖 Overview
+This mobile application is designed to bridge the gap between visual recognition and auditory learning for Japanese language beginners. This project focuses on an intuitive **UI/UX** to make learning the basics of the language engaging and accessible.
 
-🛠️ Tech Stack
-Flutter: Used for building a smooth, cross-platform user interface.
+## ✨ Key Features
+* 🖼️ **Visual Learning:** Each word or phrase is paired with high-quality imagery to aid memory retention.
+* 🌍 **Trilingual Support:** Clear display of terms in:
+    * **English**
+    * **Japanese** (Romaji)
+    * **Romaji**
+* 🔊 **Audio Integration:** Native-speaker audio clips for every entry to ensure learners master the correct pronunciation and accent.
 
-Dart: The core programming language for application logic.
+## 🛠️ Tech Stack
+* **Framework:** [Flutter](https://flutter.dev) 🚀
+* **Language:** [Dart](https://dart.dev)
+* **Focus:** Asset Management (Images & Audio)
 
-Asset Management: Efficient handling of custom image and audio data.
+## 💡 About the Project
+This project combines my technical background in **Computer Science** with my personal passion for **Japanese culture**. Having traveled to Japan and planning to return in the future, I wanted to create a tool that reflects the beauty and simplicity of the language.
 
-💡 About the Project
-This project combines my technical background in Computer Science with my personal passion for Japanese culture. Having traveled to Japan and planning to return in the future, I wanted to create a tool that reflects the beauty and simplicity of the language.
+---
