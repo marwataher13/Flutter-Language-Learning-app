@@ -12,7 +12,6 @@ This mobile application is designed to bridge the gap between visual recognition
 * 🌍 **Trilingual Support:** Clear display of terms in:
     * **English**
     * **Japanese** (Romaji)
-    * **Romaji**
 * 🔊 **Audio Integration:** Native-speaker audio clips for every entry to ensure learners master the correct pronunciation and accent.
 
 ## 🛠️ Tech Stack
